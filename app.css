@@ -13,6 +13,7 @@ h2{
       
 h3{
         font-size: 25px;
+        text-align: center;
         }
 h4 {
     font-size: 18px;
@@ -72,8 +73,9 @@ h5 {
 }
 
 img {
-    width: 29%;
+    width: 40%;
     object-fit: cover;
+ 
     
 }
 
@@ -107,10 +109,14 @@ img {
     
     width: 50%;
     border: 5px solid ivory;
-    background-color: #b56e55;
+    background-color: #b57964;
     padding: 10px 20%;
     margin-left: 30px;
     margin-right: 30px;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
 }
